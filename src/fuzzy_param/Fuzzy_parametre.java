@@ -1,8 +1,8 @@
 package fuzzy_param;
 
 public class Fuzzy_parametre {
-	private static int essaie_number=1000;
-	private static int num_cluster=7;
+	private static int essaie_number=2000;
+	private static int num_cluster=5;
 	private static double fuzziness=1.25;
 	private static double valmax_x=500;
 	private static double valmin_x=0;
